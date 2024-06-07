@@ -9,6 +9,5 @@
 
 
 
-_**License Project**_
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Postman Collection : 
+https://www.postman.com/supply-geoscientist-76264563/workspace/public/collection/32063834-c84c501b-957a-4b71-ad68-dd295f15ba75?action=share&creator=32063834
